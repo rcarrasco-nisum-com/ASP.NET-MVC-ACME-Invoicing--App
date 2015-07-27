@@ -3,11 +3,6 @@
 ## Note 
 This project is abandoned.
 
-
-
-
-
-
 # ASP.NET MVC3 Invoicing Application
 
  * This is a **sample invoicing application** used for **ASP.NET MVC3 training purposes**. 
